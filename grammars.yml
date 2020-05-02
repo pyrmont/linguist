@@ -848,6 +848,8 @@ vendor/grammars/vscode-gcode-syntax:
 - source.gcode
 vendor/grammars/vscode-hack:
 - source.hack
+vendor/grammars/vscode-janet:
+- source.janet
 vendor/grammars/vscode-lean:
 - source.lean
 - source.lean.markdown

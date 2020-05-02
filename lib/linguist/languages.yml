@@ -833,7 +833,7 @@ CodeQL:
   ace_mode: text
   language_id: 424259634
   aliases:
-    - ql
+  - ql
 CoffeeScript:
   type: programming
   tm_scope: source.coffee
@@ -2452,6 +2452,13 @@ JSX:
   codemirror_mode: jsx
   codemirror_mime_type: text/jsx
   language_id: 178
+Janet:
+  type: programming
+  extensions:
+  - ".janet"
+  color: "#c6adf9"
+  tm_scope: source.janet
+  language_id: 1028705371
 Jasmin:
   type: programming
   ace_mode: java
